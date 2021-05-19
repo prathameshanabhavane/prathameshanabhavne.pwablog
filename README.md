@@ -1,2 +1,2 @@
-# prathameshanabhavne.pwablog
+# pwablog
 PWA Blog
